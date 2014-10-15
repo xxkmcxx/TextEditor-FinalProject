@@ -44,3 +44,7 @@ Temporary Items
 
 EditorGenerator.cpp
 EditorGenerator.cpp
+*.tlog
+*.obj
+*.obj
+*.log
