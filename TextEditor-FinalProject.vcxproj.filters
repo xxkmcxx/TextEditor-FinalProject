@@ -27,6 +27,12 @@
     <ClCompile Include="..\Visual Studio 2013\Projects\CECS2223\Tipo\MyString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ListaDeCadenas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FileManager.h">
@@ -36,6 +42,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\Visual Studio 2013\Projects\CECS2223\Tipo\MyString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaDeCadenas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyString.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

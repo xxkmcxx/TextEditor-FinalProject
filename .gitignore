@@ -41,6 +41,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+<<<<<<< HEAD
 
 EditorGenerator.cpp
 EditorGenerator.cpp
@@ -48,3 +49,5 @@ EditorGenerator.cpp
 *.obj
 *.obj
 *.log
+=======
+>>>>>>> parent of f058b6e... Changhes
