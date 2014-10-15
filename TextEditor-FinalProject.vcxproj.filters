@@ -24,9 +24,6 @@
     <ClCompile Include="MyMenu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Visual Studio 2013\Projects\CECS2223\Tipo\MyString.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="ListaDeCadenas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -39,9 +36,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="MyMenu.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Visual Studio 2013\Projects\CECS2223\Tipo\MyString.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ListaDeCadenas.h">
