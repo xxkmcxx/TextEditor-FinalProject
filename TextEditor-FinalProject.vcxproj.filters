@@ -18,6 +18,7 @@
     <ClCompile Include="EditorGenerator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="FileManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -44,5 +45,7 @@
     <ClInclude Include="MyString.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+=======
+>>>>>>> parent of f058b6e... Changhes
   </ItemGroup>
 </Project>

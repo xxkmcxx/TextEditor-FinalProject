@@ -79,6 +79,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="EditorGenerator.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="FileManager.cpp" />
     <ClCompile Include="ListaDeCadenas.cpp" />
     <ClCompile Include="MyMenu.cpp" />
@@ -89,6 +90,8 @@
     <ClInclude Include="ListaDeCadenas.h" />
     <ClInclude Include="MyMenu.h" />
     <ClInclude Include="MyString.h" />
+=======
+>>>>>>> parent of f058b6e... Changhes
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
